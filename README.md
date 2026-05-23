@@ -20,11 +20,4 @@ This repository contains all the completed tasks for my Cloud Computing internsh
 └─── 📁 Task3-Multi-Cloud/     (Upcoming)
 └─── 📁 Task4-Security/        (Upcoming)
 
-## 🚀 Progress Tracker
-
-| Task | Description | Status |
-| :--- | :--- | :--- |
-| **Task 1** | Cloud Storage Setup (AWS S3) | 🟢 Completed |
-| **Task 2** | Cloud Monitoring & Alerts | 🟢 Completed |
-| **Task 3** | Multi-Cloud Architecture | 🟢 Completed |
-| **Task 4** | Cloud Security Implementation | 🟢 Completed |
+🚀 Progress TrackerTaskDescriptionStatusTask 1Cloud Storage Setup (AWS S3)🟢 CompletedTask 2Cloud Monitoring & Alerts🟢 CompletedTask 3Multi-Cloud Architecture🟢 CompletedTask 4Cloud Security Implementation🟢 Completed
