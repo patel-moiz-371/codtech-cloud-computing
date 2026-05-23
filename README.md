@@ -20,7 +20,6 @@ This repository contains all the completed tasks for my Cloud Computing internsh
 └─── 📁 Task3-Multi-Cloud/     (Upcoming)
 └─── 📁 Task4-Security/        (Upcoming)
 
-
 ## 🚀 Progress Tracker
 
 | Task | Description | Status |
