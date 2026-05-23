@@ -22,6 +22,7 @@ This repository contains all the completed tasks for my Cloud Computing internsh
 
 
 ## 🚀 Progress Tracker
+
 | Task | Description | Status |
 | :--- | :--- | :--- |
 | **Task 1** | Cloud Storage Setup (AWS S3) | 🟢 Completed |
