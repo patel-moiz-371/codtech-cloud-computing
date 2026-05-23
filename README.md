@@ -27,4 +27,4 @@ This repository contains all the completed tasks for my Cloud Computing internsh
 | **Task 1** | Cloud Storage Setup (AWS S3) | 🟢 Completed |
 | **Task 2** | Cloud Monitoring & Alerts | 🟢 Completed |
 | **Task 3** | Multi-Cloud Architecture | ⚪ Not Started |
-| **Task 4** | Cloud Security Implementation | ⚪ Not Started |
+| **Task 4** | Cloud Security Implementation | 🟢 Completed |
